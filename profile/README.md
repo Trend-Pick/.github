@@ -24,6 +24,4 @@
 
 #### **테이블 설계**
 
-![Trend_pick 테이블](https://github.com/Trend-Pick/back_end/assets/102280807/862f9313-966a-4e4a-b9f5-5ba2534a2e85)
-
-
+![Trend_pick db 테이블](https://github.com/Trend-Pick/.github/assets/102280807/f82a832e-22b0-4d8e-90cc-53541a289962)
