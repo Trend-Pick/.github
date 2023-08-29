@@ -22,6 +22,6 @@
 - 배포 환경 : AWS EC2, S3, RDS 
 
 
-#### **테이블 설계**
+#### **데이터베이스 테이블 설계**
 
 ![Trend_pick db 테이블](https://github.com/Trend-Pick/.github/assets/102280807/f82a832e-22b0-4d8e-90cc-53541a289962)
