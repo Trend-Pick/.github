@@ -38,19 +38,10 @@
 
 ###### **마이페이지 - 패션 사진**
 <img width="224" alt="내가 올린 사진" src="https://github.com/Trend-Pick/.github/assets/102280807/808e3357-bda3-4e75-b8a3-766bafb4584c">
+
 - 사진을 누르면 좋아요 개수 확인, 사진 삭제 가능
 <img width="224" alt="내가 올린 사진 상세" src="https://github.com/Trend-Pick/.github/assets/102280807/99ceaa62-433b-4a40-9890-cfb24798ee02">
 
 
 ###### **마이페이지 - 게시글**
 <img width="224" alt="내가 올린 게시글" src="https://github.com/Trend-Pick/.github/assets/102280807/e94f555b-e604-433f-8191-0ceb80fba074">
-
-
-
-
-
-
-
-#### **데이터베이스 테이블 설계**
-
-![Trend_pick db 테이블](https://github.com/Trend-Pick/.github/assets/102280807/f82a832e-22b0-4d8e-90cc-53541a289962)
