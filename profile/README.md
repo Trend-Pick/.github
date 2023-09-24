@@ -22,6 +22,34 @@
 - 배포 환경 : AWS EC2, S3, RDS 
 
 
+#### **Trend_Pick 주요 기능 사진**
+
+## **사진 업로드**
+![image](https://github.com/Trend-Pick/.github/assets/102280807/1693b7bd-98a1-4081-9d01-97b6c88518c3)
+
+## **스타일 평가
+![스크린샷 2023-09-24 110416](https://github.com/Trend-Pick/.github/assets/102280807/1894ffd4-6eea-4df5-bd92-b6cea8d3d91b)
+
+## **패션 랭킹**
+![스크린샷 2023-09-24 111108](https://github.com/Trend-Pick/.github/assets/102280807/ebb8f4fd-3445-48d0-bdab-f4df1344a439)
+- 주간 랭킹, 월간 랭킹, 누적 랭킹 선택 가능
+![스크린샷 2023-09-24 111125](https://github.com/Trend-Pick/.github/assets/102280807/78bb9ef9-03df-4bd9-8b4b-d470e797a8b5)
+
+## **마이페이지 - 내가 올린 사진**
+![스크린샷 2023-09-24 105557](https://github.com/Trend-Pick/.github/assets/102280807/808e3357-bda3-4e75-b8a3-766bafb4584c)
+- 사진을 누르면 좋아요 개수 확인, 사진 삭제 가능
+![스크린샷 2023-09-24 111233](https://github.com/Trend-Pick/.github/assets/102280807/99ceaa62-433b-4a40-9890-cfb24798ee02)
+
+
+## **마이페이지 - 내가 올린 게시글**
+![스크린샷 2023-09-24 110129](https://github.com/Trend-Pick/.github/assets/102280807/e94f555b-e604-433f-8191-0ceb80fba074)
+
+
+
+
+
+
+
 #### **데이터베이스 테이블 설계**
 
 ![Trend_pick db 테이블](https://github.com/Trend-Pick/.github/assets/102280807/f82a832e-22b0-4d8e-90cc-53541a289962)
