@@ -1,6 +1,7 @@
-### **TrendPick**
+## **TrendPick**
 
 <u></u>
+
 
 #### **작품 개요**
 
@@ -16,10 +17,12 @@
 
 #### **주요 적용 기술**
 
-- 개발 언어 : HTML, CSS, JavaScript,  Java
+- 개발 언어 : HTML, CSS, JavaScript, Java
 - 개발 도구 : Visual Studio Code, IntelliJ IDEA, Postman
-- 주요 기술 : React, Spring boot, Spring Data JPA, MySQL
-- 배포 환경 : AWS EC2, S3, RDS 
+- 주요 기술 : React, axios, Spring boot, JPA, MySQL
+- 배포 환경 : AWS EC2, S3, RDS
+- 협업 도구 : git, github, notion
+
 
 
 #### **Trend_Pick 주요 기능 사진**
